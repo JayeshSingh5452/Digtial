@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import logo from './logo.png';
-import Vector from './Vector.png';
-import like from './like.png';
+;
 import g1 from './g1.png';
 import g2 from './g2.png';
 import pn from './1.png';
