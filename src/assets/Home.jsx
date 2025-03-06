@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from './logo.png';
+import logo from './Logo.png';
 ;
 import g1 from './g1.png';
 import g2 from './g2.png';
