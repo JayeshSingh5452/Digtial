@@ -97,13 +97,7 @@ function Home() {
       </div>
 
       <div className="md:w-1/3 text-gray-300 text-base mt-8 md:mt-0 md:text-right flex flex-col items-end space-y-4">
-  {/* Icons */}
-  <div className="flex space-x-2">
-    <span className="text-indigo-400 text-2xl">👍</span>
-    <span className="text-white text-2xl">🤍</span>
-    <span className="text-indigo-400 text-2xl">👍</span>
-    <span className="text-white text-2xl">🤍</span>
-  </div>
+  
 
   <p className="max-w-xs leading-relaxed">
     You do you. Tutur has your back with a full-service marketing platform
