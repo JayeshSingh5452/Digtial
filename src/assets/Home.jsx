@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import logo from './Logo.png';
-;
+import logo from "../assets/logo.png";
 import g1 from './g1.png';
 import g2 from './g2.png';
 import pn from './1.png';
